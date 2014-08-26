@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/data/home/giangnv/kingdom/view/event/raidboss30_quest'
+let g:netrw_dirhist_2='/data/home/giangnv/vimrc/.vim'
+let g:netrw_dirhist_3='data/csv/in_gacha'
+let g:netrw_dirhist_4='data/csv'
+let g:netrw_dirhist_5='/data/home/giangnv/jam/data/csv/in_gacha'
+let g:netrw_dirhist_6='/data/home/giangnv/jam/lake/jam/view/shop/gacha/pool/pool_gacha2'
+let g:netrw_dirhist_7='/data/home/giangnv/jam/lake/jam/view/element/campaign/pool_gacha4'
+let g:netrw_dirhist_8='/data/home/giangnv/jam/data/sql/jam_grow9_quest'
